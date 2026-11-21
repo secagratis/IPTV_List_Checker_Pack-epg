@@ -1,0 +1,2 @@
+# IPTV_List_Checker_Pack-epg
+IPTV M3U / M3U8 PLAYLIST VALIDATOR &amp; CLEANER
